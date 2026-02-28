@@ -369,6 +369,25 @@ To become a trusted authority in AI automation by delivering practical, tried-an
 
 ## Brand Guidelines Quick Reference
 
+### Personal Context (For Authenticity)
+- Current role: Systems Consultant at AI-powered data management start-up (first tech job)
+- Location context: UK-based (cycle commute, British English)
+- Life context: Married, values evening time with family
+- Writing history: Previously spent 6-8 hours per post including AI proofreading rounds
+- Typical commute: Cycle to work
+- Typical evening routine: Finish work, cycle home, cook dinner, spend quality time with husband, 30 minutes before bed
+
+### Visual Asset Requirements
+For Substack posts, include:
+- Hero image with sloth themed to the topic
+- Flowchart for system architecture
+- Cost/comparison tables where relevant
+- Screenshots with captions for technical steps
+
+---
+
+## Brand Guidelines Quick Reference
+
 **Brand Name:** Savvy Sloth  
 **Pronouns:** We/us (inclusive), I (for personal experiences)
 **Language:** British English 

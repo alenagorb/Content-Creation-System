@@ -14,6 +14,8 @@
 - Lead with actionable insights and concrete outcomes
 - Include specific metrics: time saved, costs, error rates, actual ROI
 - Prioritise "here's how to do it" over "here's an interesting idea"
+- Always include SPECIFIC numbers: "6-8 hours" not "several hours", "£0" not "free/cheap"
+- Break down time by activity: writing first draft, AI editing rounds, formatting, images
 - Example: "This workflow saves 3.5 hours per week and costs $12/month in API fees"
 
 **Accessible Technical Writing**
@@ -235,9 +237,18 @@
 **Emoji Usage**
 - 🦥 is the signature brand emoji (use in sign-offs or brand moments)
 - Use sparingly elsewhere (1-2 per post maximum in body)
+- 🫠 for limited time/struggles: "Only 30 minutes before I need to crash 🫠"
+- 😭 for frustrations: "Five hours and countless retakes later… 😭"
+- 😅 for self-aware acknowledgments: "My husband thinks I'm crazy 😅"
 - Appropriate contexts: self-deprecating moments 🫠, excitement 🥳, struggles 😭
 - Avoid in professional sections or technical instructions
 - Never use as bullet points or list markers
+
+**Parenthetical Asides**
+- Use frequently to add colour, side thoughts, quick asides
+- Example: "I spend 6-8 hours on a post (yes, really, my husband thinks I'm crazy)"
+- Example: "It's brilliant (most days)."
+- Add personal colour rather than just information
 
 **Callout Boxes/Highlights**
 - Use italicised notes for helpful asides: "*To help you get started faster...*"
